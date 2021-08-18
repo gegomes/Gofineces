@@ -1,2 +1,1 @@
-# Gofineces
-Aplicativo controle de finanças 
+# App controle Financeiro 
