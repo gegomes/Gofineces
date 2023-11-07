@@ -7,8 +7,6 @@ O GoFinance é uma aplicação mobile feita com React Native e Typescript cujo o
 Ao acessar a aplicação, o usuário é direcionado para a tela de login aonde deve se autenticar com uma conta Google para acessar as funcionalidades do app:
 </p>
 <br />
-<br />
-<br />
 
 <h4>
   Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: Git e Node.js. Além disso é bom ter um editor para trabalhar com o código como VSCode.
@@ -16,7 +14,6 @@ Ao acessar a aplicação, o usuário é direcionado para a tela de login aonde d
 
 <p> Clone este repositório</p>
 $ git clone https://github.com/gegomes/Gofineces.git
-
 
 <p>Acesse a pasta do projeto no terminal/cmd</p>
 $ cd gofinances
