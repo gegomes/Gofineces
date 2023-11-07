@@ -1,5 +1,4 @@
-# Gofineces
-
+### Gofineces
 
 <p  align="center">
   <h2>Aplicativo de finanças pessoais.<h2/>
@@ -10,34 +9,40 @@ Ao acessar a aplicação, o usuário é direcionado para a tela de login aonde d
 <br />
 <br />
 <br />
-<p>
+
+<h4>
   Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: Git e Node.js. Além disso é bom ter um editor para trabalhar com o código como VSCode.
-</p>
+</h4>
 
-# Clone este repositório
-$ git clone https://github.com/gegomes/Gofineces.git
+<p> Clone este repositório</p>
+$ git clone https://github.com/gegomes/Task.git
 
-# Acesse a pasta do projeto no terminal/cmd
+
+<p>Acesse a pasta do projeto no terminal/cmd</p>
 $ cd gofinances
 
-# Instale as dependências
+<P>Instale as dependências</P>
 $ npm install
-# Caso prefira usar o Yarn execute o comando abaixo
+
+<p>Acesse a pasta do projeto no terminal/cmd</p>
+<p></p>
+
 $ yarn
 
-# Execute a aplicação
+<p>Execute a aplicação</p>
 $ expo start
 
-# Execute os testes
+<p> Execute os testes</p>
 $ npm run test
-# Yarn execute o comando abaixo
+<p>Yarn execute o comando abaixo</p>
 $ yarn test
 
-# Será aberto no terminal o menu do Expo onde poderá scanear o QR Code para executar o app diretamente no seu celular ou as opções de executar no emulador android ou iOS
 
-<br />
-<br />
-<br />
+<p>Será aberto no terminal o menu do Expo onde poderá scanear o QR Code para executar o app diretamente no seu celular ou as opções de executar no emulador android ou iOS</p>
+
+
+
+
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Education&color=8257e5&labelColor=202024" alt="Rocketseat Project" />
