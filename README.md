@@ -15,7 +15,7 @@ Ao acessar a aplicação, o usuário é direcionado para a tela de login aonde d
 </p>
 
 # Clone este repositório
-$ git clone 
+$ git clone https://github.com/gegomes/Gofineces.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd gofinances
