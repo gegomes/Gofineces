@@ -15,7 +15,7 @@ Ao acessar a aplicação, o usuário é direcionado para a tela de login aonde d
 </h4>
 
 <p> Clone este repositório</p>
-$ git clone https://github.com/gegomes/Task.git
+$ git clone https://github.com/gegomes/Gofineces.git
 
 
 <p>Acesse a pasta do projeto no terminal/cmd</p>
